@@ -1,12 +1,12 @@
 # BerkshireQuotesGoogle
 
-A Google Assistant app which gives quotes by Warren Buffett and Charlie Munger. This is written based on the Alexa skill I wrote for the same purpose
+A Google Assistant app which gives quotes by Warren Buffett and Charlie Munger. This is written based on the Alexa skill I wrote for the same purpose (https://github.com/vishalbala-nps/BerkshireQuotes.git)
 
 ## Setup Instructions:
 ### Cloning the project
 Start by cloning the repository on to your local machine with the following command:
 ```bash
-git clone https://github.com/vishalbala-nps/BerkshireQuotes.git
+git clone https://github.com/vishalbala-nps/BerkshireQuotesGoogle.git
 ```
 ### Setup Dialogflow
 
