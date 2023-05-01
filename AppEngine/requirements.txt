@@ -1,3 +1,3 @@
-Flask==1.0.2
+Flask==2.3.2
 Flask-Assistant==0.3.91
 boto3==1.9.243
